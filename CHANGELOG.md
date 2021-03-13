@@ -1,3 +1,9 @@
+# 1.0.0
+
+  * Breaking Change: Support Dart Null safety
+  * Breaking Change: Support for RxDart 0.26.x
+  * Breaking Change: Support for Redux 5.0.0
+
 # 0.14.0
 
   * Breaking Change: Support for RxDart 0.24.x
